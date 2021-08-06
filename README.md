@@ -17,7 +17,9 @@ https://www.loom.com/share/29bc133110f944439e5c8d0cca3f2193
 `Dashboard.twb`
 
 
-### Datasets downloaded from: https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv
+### Source of Data
+
+Downloaded from: https://www.kaggle.com/nikdavis/steam-store-games?select=steam.csv
 
 `steam.csv`
 
