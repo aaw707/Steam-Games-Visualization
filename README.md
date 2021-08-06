@@ -6,7 +6,7 @@ Performed thorough EDA in Python on 5 datasets containing 27,000 Steam games, cr
 
 `Presentation.mp4`
 
-Or https://www.loom.com/share/4cedbc4ce1564abd81f82aabab877fdf
+Or https://www.loom.com/share/29bc133110f944439e5c8d0cca3f2193
 
 
 ### EDA in Python: 
